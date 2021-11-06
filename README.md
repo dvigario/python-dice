@@ -2,7 +2,11 @@
  Dice made in Python with executable file and graphical interface
  
 ### How does it work:
-Click on the file called roller.exe
+* Click on roller.exe file and the program will start.
+* To play, just click on the <roll the dice> button, every time you click on this button the program will show a random number from 1 to 6.
+* To exit just click on the <exit> button or on the icon with the X drawing in the program window.
+ 
+ Note: There is an icon file called DV Dado that can be added as application icon in a shortcut
 
 Executable dice made in Python language with graphical interface
 
@@ -13,6 +17,6 @@ Powered by DViga ❤️
 
 ## Screenshots of usage examples:
 
-<img src="source/img/screen01.png" alt="First Screenshot" width="500em">
+<img src="img/1.png" alt="First Screenshot" width="250em">
 
-<img src="source/img/screen02.png" alt="Second Screenshot" width="500em">
+<img src="img/2.png" alt="Second Screenshot" width="250em">
