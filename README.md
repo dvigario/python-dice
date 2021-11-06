@@ -17,6 +17,6 @@ Powered by DViga ❤️
 
 ## Screenshots of usage examples:
 
-<img src="img/1.png" alt="First Screenshot" width="250em">
+<img src="img/1.png" alt="First Screenshot" width="200em">
 
-<img src="img/2.png" alt="Second Screenshot" width="250em">
+<img src="img/2.png" alt="Second Screenshot" width="200em">
