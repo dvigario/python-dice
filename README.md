@@ -4,7 +4,7 @@
 ### How does it work:
 * Click on roller.exe file and the program will start.
 * To play, just click on the - **Role o Dado** - button, every time you click on this button the program will show a random number from 1 to 6.
-* To exit just click on the - **exit** - button or on the icon with the - **X** - drawing in the program window.
+* To exit just click on the - **Sair** - button or on the icon with the - **X** - drawing in the program window.
  
  Note: There is an icon file called DV Dado that can be added as application icon in a shortcut.
  
